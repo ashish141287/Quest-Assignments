@@ -1,4 +1,4 @@
-''' get different data from str wars films and starships'''
+'''Get different data from star wars films and starships'''
 
 import requests
 
